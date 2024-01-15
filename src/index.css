@@ -5,9 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(115, 107, 122);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image:url('../public/photos/back.PNG');
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.bg-purple {
+  background-color: rgb(19, 47, 157);
 }
